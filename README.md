@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince-Costa</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [VOIP Forum](https://voipforum.net/)
+- 🔭 I’m currently working on a project of Bangladesh Projoton Corporation 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Go**
+  
+- 🔭 Worked on [VOIP Forum](https://voipforum.net/)
+ 
+- 🔭 Worked on [Rigglotech](https://rigglotech.com/)
 
-- 🔭 I’m currently working on [Rigglotech](https://rigglotech.com/)
-
-- 🔭 I’m currently working on a shopify project [Danla](https://danla.co.uk/)
+- 🔭 Worked on a shopify project [Danla](https://danla.co.uk/)
 
 - 👨‍💻 Some of my test projects are available at [https://github.com/Prince-Costa](https://github.com/Prince-Costa)
 
